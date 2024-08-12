@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1.0">
+ <title>Register</title>
+ <link rel="stylesheet" href="style.css">
+</head>
+<body>
+	<form action="login.html">
+		<div class="container">
+			<img class="logo" src="./images/logo-white.png" alt="logo">
+			<h2> Register With Us</h2>
+			
+			<br>
+			<br>
+			<!-- <br> -->
+
+			<div class="form">
+				
+				<div class="boxes">
+					<div class="box">
+						<label for="fname">First Name</label>
+						<input type="text" placeholder="Enter First Name" required/>
+					</div>
+					<div class="box">
+						<label for="lname">Last Name</label>
+						<input type="text" placeholder="Enter Last Name" required/>
+					</div>
+				</div>
+
+				<div class="box">
+					<label for="email">Email Address</label>
+					<input type="email" placeholder="Enter Email Address" required/>
+				</div>
+
+				<div class="box">
+					<label for="phone">Phone Number</label>
+					<input type="tel" placeholder="Enter Phone Number" maxlength="" required/>
+				</div>
+
+				<div class="box">
+					<label for="password">Password</label>
+					<input type="password" placeholder="Enter password" min="5" max="9999999" required/>
+				</div>
+
+				<div class="box">
+					<label for="password">Confirm Password</label>
+					<input type="password" placeholder="Confirm Password" min="5" max="9999999" required/>
+				</div>
+
+				<button type="submit" class="btn">SUBMIT</button>
+
+			</div>
+		</div>
+	</form>
+</body>
+</html>
