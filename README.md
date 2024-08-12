@@ -5,7 +5,7 @@ Welcome to Furniished, your one-stop solution for custom furniture that transfor
 📋 Project Overview:
 This project is a modern and responsive website designed for Furniished. It includes:
 
-Top Designs: Showcase of exquisite furniture designs by top designers.
+💺 Top Designs: Showcase of exquisite furniture designs by top designers.
 Featured Products: Highlight of our best-selling custom furniture items.
 How We Work: Step-by-step guide on how we bring your dream furniture to life.
 Contact Us: Easy access to get in touch with our team.
