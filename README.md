@@ -26,6 +26,6 @@ FontAwesome: For beautiful icons that enhance the design.
 Have any questions? Feel free to reach out: 
 
 Email: dannygideon.uk@gmail.com
-GitHub: Dev-Dani1
+GitHub: https://github.com/Dev-Dani1
 
                           Happy Coding 🪄
